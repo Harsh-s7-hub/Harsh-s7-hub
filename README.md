@@ -163,13 +163,13 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/brajesh_13?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12&width=500" width="50%"/>
+<img src="https://leetcard.jacoblin.cool/smnNtBbYCN?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12&width=500" width="50%"/>
 
 <br/><br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1500%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/brajesh_13/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1500%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/smnNtBbYCN/)
 &nbsp;&nbsp;
-[![Codeforces](https://img.shields.io/badge/Codeforces-Competitive%20Programmer-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/brajesh_dce)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Competitive%20Programmer-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/harsh.soni.23cse)
 
 <br/><br/>
 
