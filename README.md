@@ -75,7 +75,7 @@
 🔭 &nbsp;Currently building **Healix** — an AI-powered healthcare ecosystem with smartwatch ML<br/>
 🧠 &nbsp;Deep-diving into **LLMs, RAG pipelines, and Agentic AI Systems**<br/>
 ⚡ &nbsp;Obsessed with **clean architecture, system design, and scalable products**<br/>
-🏆 &nbsp;**1500+ DSA problems** — strong competitive programming background<br/>
+🏆 &nbsp;**Solving DSA problems** — strong competitive programming background<br/>
 💡 &nbsp;At the intersection of **AI × Product × Engineering**
 
 <br/><br/>
