@@ -65,7 +65,7 @@
 │  experience  : 3+ years Product Engineering     │
 │  location    : India 🇮🇳                         │
 │  focus       : LLMs · Scalable Systems · Mobile │
-│  dsa         : 1500+ problems solved            │
+│  dsa         :  Solving Problems           │
 │  mantra      : "Build. Ship. Scale. Repeat."    │
 └─────────────────────────────────────────────────┘
 ```
