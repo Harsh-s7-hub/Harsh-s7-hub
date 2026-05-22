@@ -121,8 +121,7 @@ while (alive) {
 <div align="center">
 
 <a href="https://github.com/Harsh-s7-hub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harsh-s7-hub&show_icons=true&theme=github_dark&hide_border=true&bg_color=050d1a&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true&count_private=true&border_radius=16&ring_color=00d4ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-s7-hub&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=050d1a&title_color=00d4ff&text_color=c9d1d9&langs_count=8&border_radius=16" />
+  <img height="180em" src="https://avatars.githubusercontent.com/u/241245352?s=400&u=2d6d4d51b9c0690143e3a559f3ad2acf0258354e&v=4" style="border-radius:50%" />
 </a>
 
 <br/><br/>
@@ -549,7 +548,7 @@ const HARSH_SONI = {
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brajeshkumarsde/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-soni-b581422aa/)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh-s7-hub)
 
