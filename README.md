@@ -333,7 +333,7 @@ while (alive) {
 ║         Adaptive Learning for Neurodivergent Children                 ║
 ╚════════════════════════════════════════════════════════════════════════╝
 ```
-
+v
 </div>
 
 > An evidence-informed interactive platform for children with ADHD, Autism and Dyslexia.
