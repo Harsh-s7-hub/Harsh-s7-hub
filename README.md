@@ -38,8 +38,8 @@
 
 <!-- Social links -->
 [![GitHub](https://img.shields.io/badge/GitHub-Harsh--s7--hub-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=161b22)](https://github.com/Harsh-s7-hub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/brajeshkumarsde/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1500%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=1a1a1a)](https://leetcode.com/u/smnNtBbYCN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/harsh-soni-b581422aa/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-50%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=1a1a1a)](https://leetcode.com/u/smnNtBbYCN/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Competitive-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&labelColor=1a1a1a)](https://codeforces.com/profile/harsh.soni.23cse)
 [![Views](https://komarev.com/ghpvc/?username=Harsh-s7-hub&style=flat-square&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/Harsh-s7-hub)
 
@@ -460,7 +460,7 @@ v
 
 <br/><br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1500%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/smnNtBbYCN/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-50%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/smnNtBbYCN/)
 &nbsp;&nbsp;&nbsp;
 [![Codeforces](https://img.shields.io/badge/Codeforces-Competitive_Programmer-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/harsh.soni.23cse)
 
@@ -471,13 +471,6 @@ v
 
 ![DSA](https://img.shields.io/badge/Data_Structures-Expert-00d4ff?style=flat-square&labelColor=050d1a)
 ![Algo](https://img.shields.io/badge/Algorithms-Expert-7c3aed?style=flat-square&labelColor=050d1a)
-![DP](https://img.shields.io/badge/Dynamic_Programming-Advanced-10b981?style=flat-square&labelColor=050d1a)
-![Graphs](https://img.shields.io/badge/Graph_Theory-Advanced-f59e0b?style=flat-square&labelColor=050d1a)
-![Trees](https://img.shields.io/badge/Trees_and_Tries-Advanced-0ea5e9?style=flat-square&labelColor=050d1a)
-![Greedy](https://img.shields.io/badge/Greedy-Proficient-00d4ff?style=flat-square&labelColor=050d1a)
-![BitMask](https://img.shields.io/badge/Bit_Manipulation-Proficient-7c3aed?style=flat-square&labelColor=050d1a)
-![SysDesign](https://img.shields.io/badge/System_Design-Proficient-10b981?style=flat-square&labelColor=050d1a)
-![Segments](https://img.shields.io/badge/Segment_Trees-Proficient-f59e0b?style=flat-square&labelColor=050d1a)
 ![BinarySearch](https://img.shields.io/badge/Binary_Search-Expert-0ea5e9?style=flat-square&labelColor=050d1a)
 
 </td></tr>
